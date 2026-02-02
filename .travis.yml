@@ -1,5 +1,1 @@
-touch .travis.yml
-git add .travis.yml
-git commit -m "Add Travis CI config"
-git push origin main
 
